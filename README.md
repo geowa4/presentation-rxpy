@@ -17,7 +17,7 @@ slidenumbers: true
 
 # Dunning-Kruger
 
-![](http://i.imgur.com/jbo2gy5.jpg)
+![](http://america.pink/images/1/3/3/3/2/7/0/en/3-dunning-kruger-effect.jpg)
 
 ---
 
