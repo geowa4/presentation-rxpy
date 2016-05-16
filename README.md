@@ -23,9 +23,18 @@ slidenumbers: true
 
 # Agenda
 
+- Why Use Rx
 - The Pattern
 - Hot & Cold
 - Running Code Examples
+
+---
+
+# Why Use Rx
+
+- Consistency across languages (.NET, Java, JS, etc.)
+- Highly composable
+- Simplifies programs with time as a variable
 
 ---
 
@@ -37,9 +46,9 @@ slidenumbers: true
 
 # The Pattern
 
-1. Create data source(s)
-1. Define observation(s)
-1. Add subscription(s)
+1. Define data source
+1. Observe changes
+1. Subscribe
 
 ---
 
